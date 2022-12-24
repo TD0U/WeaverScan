@@ -1,6 +1,6 @@
 # WeaverScan
 泛微漏洞利用工具
-造了个轮子
+用go造了个轮子
 ```
 WeaverScan.exe -h
 ```
