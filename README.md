@@ -9,7 +9,7 @@ WeaverScan.exe -h
 
 ```
 全漏洞探测
-WeaverScan.exe -m 1 -u http:localhost:8080 -i 0
+WeaverScan.exe scan -m 1 -u http:localhost:8080 -i 0
 ```
 ![image](https://user-images.githubusercontent.com/75050574/204453964-d81622ed-5886-482b-b303-902efba8e629.png)
 
